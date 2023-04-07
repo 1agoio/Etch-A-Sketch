@@ -1,0 +1,6 @@
+.childDiv{
+    border:2px solid black;
+}
+.childDiv:hover{
+    /*cor aleatoria*/
+}

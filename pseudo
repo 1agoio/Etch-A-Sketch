@@ -1,0 +1,8 @@
+Create a webpage with a 16x16 grid of square divs
+Create the divs with js
+Put the grid inside a div in the html
+Make the divs appear as a grid with flexbox
+
+Set a hover effect for the divs to change color when the mouse passes through them
+
+Add a button so that the user can set a new number of squares per side of the grid
